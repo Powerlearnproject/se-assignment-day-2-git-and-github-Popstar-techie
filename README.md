@@ -3,7 +3,7 @@
 
 Version Control is a system that allows you to track changes to files over time. It is crucial for software development, as it enables developers to collaborate effectively, experiment with different approaches, and revert to previous versions if necessary. 
 GitHub is popular for managing versions of code because it offers more than just version control. It facilitates collaboration among developers, provides tools for issue tracking, and enables code reviews. Github is also popular for open-source projects, fostering a strong community and knowledge sharing.
-Version Control helps in maintaining project integrity in the following ways: 
+Version Control helps in maintaining project integrity in the following ways:
 Reverting Changes: If a mistake is made, you can easily revert to a previous version of your code.
 Tracking Changes: Version control helps you understand who made changes, when they were made, and why.
 Collaboration: By providing a shared workspace, version control prevents conflicts and ensures that everyone is working on the latest version of the code.
